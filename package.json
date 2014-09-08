@@ -1,0 +1,9 @@
+{
+  "name": "dns",
+  "version": "0.0.1",
+  "description": "Dummy replacement of Node's dns module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tidepool-org/mock-node-dns.git"
+  }
+}
